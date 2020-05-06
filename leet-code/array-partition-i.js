@@ -12,12 +12,12 @@
  * @param {number[]} nums
  * @return {number}
  */
-function arrayPairSum (nums) {
-  const sortedList = nums.sort((a, b) => a - b)
+function arrayPairSum (nums) { 
+  const sortedList = Int16Array.from(nums).sort();
 
   let result = 0
-  for (let i = 0; i < sortedList.length; i += 2) {  
-    result += nums[i]
+  for(let i = 0; i < sortedList.length -1; i += 2) {
+    result += sortedList[i]
   }
 
   return result
