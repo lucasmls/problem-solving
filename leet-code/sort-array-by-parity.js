@@ -25,6 +25,27 @@ function sortArrayByParity(A) {
   return A
 }
 
+// /**
+//  * @param {number[]} A
+//  * @return {number[]}
+//  */
+// function sortArrayByParity(A) {
+//   let start = 0
+//   let end = A.length -1
+//   let result = []
+
+//   for (let i = 0; i < A.length; i++) {
+//     if (A[i] % 2 === 1) {
+//       result[end--] = A[i]
+//       continue
+//     }
+
+//     result[start++] = A[i]
+//   }
+
+//   return result
+// }
+
 console.log(sortArrayByParity([3,1,2,4]))
 console.log(sortArrayByParity([1, 6, 3, 8, 11]))
 console.log(sortArrayByParity([2, 1, 2, 3, 4, 7, 8, 10, 123, 54, 32, 33, 6]))
