@@ -10,6 +10,15 @@
  * @param {number[]} nums
  * @return {number[]}
  */
+// function smallerNumbersThanCurrent (nums) {
+//   const sorted = [...nums].sort((a, b) => a - b);
+//   return nums.map(num => sorted.indexOf(num));
+// }
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
 function smallerNumbersThanCurrent (nums) {
    const sortedNums = [...nums]
     .sort((n1, n2) => n2 - n1)
@@ -28,6 +37,7 @@ function smallerNumbersThanCurrent (nums) {
    
     return result
 };
+
 
 // console.log(smallerNumbersThanCurrent([8,1,2,2,3]))
 console.log(smallerNumbersThanCurrent([0, 1, 10]))
