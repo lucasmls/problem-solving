@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func Test(t *testing.T) {
+func TestCapitalize(t *testing.T) {
 	testCases := []struct {
 		input  string
 		output string

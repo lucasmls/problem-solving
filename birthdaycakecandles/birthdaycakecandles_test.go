@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func Test(t *testing.T) {
+func TestBirthdayCakeCandles(t *testing.T) {
 	testCases := []struct {
 		input  []int32
 		output int32

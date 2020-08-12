@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func Test(t *testing.T) {
+func TestVeryBigSum(t *testing.T) {
 	testCases := []struct {
 		input  []int
 		output int
