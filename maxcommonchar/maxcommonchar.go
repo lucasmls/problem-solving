@@ -2,6 +2,13 @@ package maxcommonchar
 
 import "fmt"
 
+/*
+ *  Given a string, return the character that is most
+ *  commonly used in the string.
+ *  maxChar("abcccccccd") === "c"
+ *  maxChar("apple 1231111") === "1"
+ */
+
 // MostCommonChar ...
 type MostCommonChar struct {
 	letter   string
