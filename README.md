@@ -21,6 +21,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/diagonaldifference/diagonaldifference.go)
  - [Min max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/minmaxsum/minmaxsum.go)
  - [Very big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/verybigsum/verybigsum.go)
+ - [Grading Students](https://www.hackerrank.com/challenges/grading/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/grading/grading.go)
 
 #### Interviews Questions Course Problems
  - [Anagrams](https://github.com/lucasmls/problem-solving/blob/master/anagrams/anagrams.go)
