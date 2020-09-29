@@ -2,6 +2,9 @@
 
 It's a place where i store all of the problems that already have solved. The problems may vary from [Leet Code](https://leetcode.com), [HackerHank](https://www.hackerrank.com/) or even from this [course](https://www.udemy.com/coursecoding-interview-bootcamp-algorithms-and-data-structure/) and all the problems were solved using [Golang](https://golang.org/).
 
+### Daily Codding Problem
+ - Product numbers - [Solution](https://github.com/lucasmls/problem-solving/blob/master/productofallnumbers/productofallnumbers.go)
+
 #### Leetcode Problems
  - [Array Partition](https://leetcode.com/problems/array-partition-i/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/arraypartition/arraypartition.go)
  - [Disappeared Numbers](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/disappeared_numbers/disappeared_numbers.go)
