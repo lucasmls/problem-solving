@@ -2,7 +2,7 @@
 
 It's a place where i store all of the problems that already have solved. The problems may vary from [Leet Code](https://leetcode.com), [HackerHank](https://www.hackerrank.com/) or even from this [course](https://www.udemy.com/coursecoding-interview-bootcamp-algorithms-and-data-structure/) and all the problems were solved using [Golang](https://golang.org/).
 
-### Daily Codding Problem
+### Daily Coding Problem
  - Product numbers - [Solution](https://github.com/lucasmls/problem-solving/blob/master/productofallnumbers/productofallnumbers.go)
 
 #### Leetcode Problems
