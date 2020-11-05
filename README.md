@@ -18,6 +18,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/toeplitzmatrix/toeplitzmatrix.go)
  - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/transposematrix/transposematrix.go)
  - [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/reverselinkedlist/reverselinkedlist.go)
+ - [Remove Duplicates from LinkedList](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/removelinkedlistduplicates/removelinkedlistduplicates.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
