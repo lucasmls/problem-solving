@@ -1,5 +1,19 @@
 package removelinkedlistduplicates
 
+/**
+ * Given any linked list, delete all duplicates such that each element appear only once.
+ *
+ * Example 1:
+ * Input: 1->1->2
+ * Output: 1->2
+ *
+ * Example 2:
+ * Input: 4->2->2->10->10
+ * Output: 4->2->10
+ *
+ * @link https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+ */
+
 // ListNode ...
 type ListNode struct {
 	Val  int
