@@ -1,5 +1,15 @@
 package reverselinkedlist
 
+/**
+ * Reverse a singly linked list.
+ *
+ * Example 1:
+ * Input: 1->2->3->4->5->NULL
+ * Output: 5->4->3->2->1->NULL
+ *
+ * @link https://leetcode.com/problems/reverse-linked-list/
+ */
+
 // ListNode ...
 type ListNode struct {
 	Val  int
