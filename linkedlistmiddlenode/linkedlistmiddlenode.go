@@ -1,7 +1,6 @@
-package main
+package linkedlistmiddlenode
 
 import (
-	"fmt"
 	"math"
 )
 
@@ -45,32 +44,4 @@ func MiddleNode(head *ListNode) *ListNode {
 	}
 
 	return middleNode
-}
-
-func main() {
-	r := MiddleNode(&ListNode{
-		Val: 1,
-		Next: &ListNode{
-			Val: 2,
-			Next: &ListNode{
-				Val: 3,
-				Next: &ListNode{
-					Val: 4,
-					Next: &ListNode{
-						Val: 5,
-						Next: &ListNode{
-							Val:  6,
-							Next: nil,
-						},
-					},
-				},
-			},
-		},
-	})
-
-	curr := r
-	for curr != nil {
-		fmt.Println(curr.Val)
-		curr = curr.Next
-	}
 }
