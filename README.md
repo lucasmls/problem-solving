@@ -20,6 +20,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/reverselinkedlist/reverselinkedlist.go)
  - [Remove Duplicates from LinkedList](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/removelinkedlistduplicates/removelinkedlistduplicates.go)
  - [Remove Duplicates from Sorted LinkedList](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/removeduplicatesfromsortedlinkedlist/removeduplicatesfromsortedlinkedlist.go)
+ - [Merge Two Sorted LinkedLists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/mergesortedlinkedlist/mergesortedlinkedlist.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
