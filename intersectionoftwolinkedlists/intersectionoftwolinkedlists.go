@@ -64,3 +64,25 @@ func GetIntersectionNodeBruteForce(headA, headB *ListNode) *ListNode {
 
 	return nil
 }
+
+// GetIntersectionNodeOptimized ...
+func GetIntersectionNodeOptimized(headA, headB *ListNode) *ListNode {
+	pA := headA
+	pB := headB
+
+	for pA != pB {
+		if pA != nil {
+			pA = pA.Next
+		} else {
+			pA = headB
+		}
+
+		if pB != nil {
+			pB = pB.Next
+		} else {
+			pB = headA
+		}
+	}
+
+	return pA
+}

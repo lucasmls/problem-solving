@@ -20,6 +20,7 @@ func TestMiddleNode(t *testing.T) {
 		secondInput *ListNode
 		output      *ListNode
 	}{
+		// #1
 		{
 			firstInput: &ListNode{
 				Val: 1,
@@ -43,6 +44,7 @@ func TestMiddleNode(t *testing.T) {
 			},
 			output: intersectionM,
 		},
+		// #2
 		{
 			firstInput: &ListNode{
 				Val: 1,
@@ -71,5 +73,6 @@ func TestMiddleNode(t *testing.T) {
 	for _, tc := range tt {
 		assert.Equal(t, tc.output, GetIntersectionNode(tc.firstInput, tc.secondInput))
 		assert.Equal(t, tc.output, GetIntersectionNodeBruteForce(tc.firstInput, tc.secondInput))
+		assert.Equal(t, tc.output, GetIntersectionNodeOptimized(tc.firstInput, tc.secondInput))
 	}
 }
