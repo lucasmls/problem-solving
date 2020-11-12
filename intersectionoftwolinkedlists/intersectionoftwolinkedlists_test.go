@@ -69,7 +69,7 @@ func TestMiddleNode(t *testing.T) {
 	}
 
 	for _, tc := range tt {
-		result := GetIntersectionNode(tc.firstInput, tc.secondInput)
-		assert.Equal(t, tc.output, result)
+		assert.Equal(t, tc.output, GetIntersectionNode(tc.firstInput, tc.secondInput))
+		assert.Equal(t, tc.output, GetIntersectionNodeBruteForce(tc.firstInput, tc.secondInput))
 	}
 }

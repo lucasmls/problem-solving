@@ -44,3 +44,23 @@ func GetIntersectionNode(headA, headB *ListNode) *ListNode {
 
 	return nil
 }
+
+// GetIntersectionNodeBruteForce ...
+func GetIntersectionNodeBruteForce(headA, headB *ListNode) *ListNode {
+	currA := headA
+	for currA != nil {
+
+		currB := headB
+		for currB != nil {
+			if currB == currA {
+				return currB
+			}
+
+			currB = currB.Next
+		}
+
+		currA = currA.Next
+	}
+
+	return nil
+}
