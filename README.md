@@ -23,7 +23,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Merge Two Sorted LinkedLists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/mergesortedlinkedlist/mergesortedlinkedlist.go)
  - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/linkedlistdeletenode/linkedlistdeletenode.go)
  - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/intersectionoftwolinkedlists/intersectionoftwolinkedlists.go)
- - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/linkelistcycle/linkelistcycle.go)
+ - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/linkedlistcycle/linkedlistcycle.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
