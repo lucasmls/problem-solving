@@ -42,5 +42,6 @@ func TestHasCycle(t *testing.T) {
 
 	for _, tc := range tt {
 		assert.Equal(t, tc.output, HasCycle(tc.input))
+		assert.Equal(t, tc.output, HasCycleTwoPointers(tc.input))
 	}
 }

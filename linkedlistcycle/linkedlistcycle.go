@@ -31,3 +31,20 @@ func HasCycle(head *ListNode) bool {
 
 	return false
 }
+
+// HasCycleTwoPointers ...
+func HasCycleTwoPointers(head *ListNode) bool {
+	slow := head
+	fast := head.Next
+
+	for slow != fast {
+		if fast == nil || fast.Next == nil {
+			return false
+		}
+
+		slow = slow.Next
+		fast = fast.Next.Next
+	}
+
+	return true
+}
