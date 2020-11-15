@@ -25,6 +25,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/intersectionoftwolinkedlists/intersectionoftwolinkedlists.go)
  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/linkedlistcycle/linkedlistcycle.go)
  - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/linkedlistdeleteelements/linkedlistdeleteelements.go)
+ - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/binarynumberinalinkedlisttointeger/binarynumberinalinkedlisttointeger.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
