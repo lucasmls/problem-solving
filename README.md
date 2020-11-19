@@ -29,6 +29,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/linkedlistispalindrome/linkedlistispalindrome.go)
  - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/numberofgoodpairs/numberofgoodpairs.go)
  - [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/nrepeatedelementinsize2narray/nrepeatedelementinsize2narray.go)
+ - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/uniquenumbersofoccurences/uniquenumbersofoccurences.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
