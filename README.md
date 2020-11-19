@@ -28,6 +28,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/binarynumberinalinkedlisttointeger/binarynumberinalinkedlisttointeger.go)
  - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/linkedlistispalindrome/linkedlistispalindrome.go)
  - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/numberofgoodpairs/numberofgoodpairs.go)
+ - [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/nrepeatedelementinsize2narray/nrepeatedelementinsize2narray.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
