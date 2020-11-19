@@ -27,3 +27,23 @@ func NumOfGoodPairs(nums []int) int {
 	return result
 }
 
+// NumOfGoodPairsHM ...
+func NumOfGoodPairsHM(nums []int) int {
+	result := 0
+
+	hm := make(map[int]int)
+
+	for _, val := range nums {
+		_, ok := hm[val]
+		if !ok {
+			hm[val] = 1
+			continue
+		}
+
+		hm[val]++
+
+		result += hm[val] - 1
+	}
+
+	return result
+}

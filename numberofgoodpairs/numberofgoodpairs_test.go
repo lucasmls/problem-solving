@@ -30,4 +30,6 @@ func TestNumOfGoodPairs(t *testing.T) {
 
 	for _, tc := range tt {
 		assert.Equal(t, tc.output, NumOfGoodPairs(tc.input))
+		assert.Equal(t, tc.output, NumOfGoodPairsHM(tc.input))
+	}
 }
