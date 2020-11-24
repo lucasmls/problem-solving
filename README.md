@@ -34,6 +34,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/findwordsthatcanbeformedbycharacters/findwordsthatcanbeformedbycharacters.go)
  - [Single Number](https://leetcode.com/problems/single-number/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/singlenumber/singlenumber.go)
  - [Keyboard Row](https://leetcode.com/problems/keyboard-row/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/keyboardrow/keyboardrow.go)
+ - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/intersectionoftwoarrays/intersectionoftwoarrays.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
