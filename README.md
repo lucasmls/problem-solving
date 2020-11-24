@@ -32,6 +32,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/uniquenumbersofoccurences/uniquenumbersofoccurences.go)
  - [Find Common Characters](https://leetcode.com/problems/find-common-characters/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/findcommoncharacters/findcommoncharacters.go)
  - [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/findwordsthatcanbeformedbycharacters/findwordsthatcanbeformedbycharacters.go)
+ - [Single Number](https://leetcode.com/problems/single-number/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/singlenumber/singlenumber.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
