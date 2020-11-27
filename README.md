@@ -37,6 +37,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/intersectionoftwoarrays/intersectionoftwoarrays.go)
  - [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/uncommonwordsfromtwosentences/uncommonwordsfromtwosentences.go)
  - [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/occurrencesafterbigram/occurrencesafterbigram.go)
+ - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/maximumnumberofballoons/maximumnumberofballoons.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
