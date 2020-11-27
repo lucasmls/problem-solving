@@ -59,3 +59,4 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Reverse string](https://github.com/lucasmls/problem-solving/blob/master/reversestring/reversestring.go)
  - [Simple array sum](https://github.com/lucasmls/problem-solving/blob/master/simplearraysum/simplearraysum.go)
  - [Steps](https://github.com/lucasmls/problem-solving/blob/master/steps/steps.go)
+ - [Cars Race](https://github.com/lucasmls/problem-solving/blob/master/carsrace/carsrace.go)
