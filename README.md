@@ -1,6 +1,6 @@
 ## Problem Solving
 
-It's a place where i store all of the problems that already have solved. The problems may vary from [Leet Code](https://leetcode.com), [HackerHank](https://www.hackerrank.com/) or even from this [course](https://www.udemy.com/coursecoding-interview-bootcamp-algorithms-and-data-structure/) and all the problems were solved using [Golang](https://golang.org/).
+It's a place where i store all of the problems that i already have solved. The problems may vary from [Leet Code](https://leetcode.com) (mostly), [HackerHank](https://www.hackerrank.com/) and from [Daily Coding Problem](https://www.dailycodingproblem.com/) (kinda rarely) and all the problems were solved using [Golang](https://golang.org/).
 
 ### Daily Coding Problem
  - Product numbers - [Solution](https://github.com/lucasmls/problem-solving/blob/master/productofallnumbers/productofallnumbers.go)
@@ -47,7 +47,7 @@ It's a place where i store all of the problems that already have solved. The pro
  - [Very big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/verybigsum/verybigsum.go)
  - [Grading Students](https://www.hackerrank.com/challenges/grading/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/grading/grading.go)
 
-#### Interviews Questions Course Problems
+#### Random Problems
  - [Anagrams](https://github.com/lucasmls/problem-solving/blob/master/anagrams/anagrams.go)
  - [Array Chunk](https://github.com/lucasmls/problem-solving/blob/master/arraychunk/arraychunk.go)
  - [Capitalize](https://github.com/lucasmls/problem-solving/blob/master/capitalize/capitalize.go)
