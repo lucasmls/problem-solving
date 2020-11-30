@@ -40,6 +40,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/maximumnumberofballoons/maximumnumberofballoons.go)
  - [Distribute Candies](https://leetcode.com/problems/distribute-candies/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/distributecandies/distributecandies.go)
  - [Employee Importance](https://leetcode.com/problems/employee-importance/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/employeeimportance/employeeimportance.go)
+ - [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/validanagram/validanagram.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
