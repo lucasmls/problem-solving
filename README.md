@@ -43,6 +43,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/validanagram/validanagram.go)
  - [Find the Difference](https://leetcode.com/problems/find-the-difference/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/findthedifference/findthedifference.go)
  - [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/shortestcompletingword/shortestcompletingword.go)
+ - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/firstuniquecharacterinastring/firstuniquecharacterinastring.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
