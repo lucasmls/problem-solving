@@ -33,3 +33,22 @@ func findKthPositive(arr []int, k int) int {
 
 	return missingNumbers[k-1]
 }
+
+func findKthPositiveBinarySearch(arr []int, k int) int {
+	left := 0
+	right := len(arr)
+	mid := 0
+
+	for left < right {
+		mid = (left + right) / 2
+
+		if (arr[mid] - 1 - mid) < k {
+			left = mid + 1
+			continue
+		}
+
+		right = mid
+	}
+
+	return left + k
+}

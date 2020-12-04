@@ -28,5 +28,6 @@ func TestFindKthPositive(t *testing.T) {
 
 	for _, tc := range tt {
 		assert.Equal(t, tc.output, findKthPositive(tc.firstInput, tc.secondInput))
+		assert.Equal(t, tc.output, findKthPositiveBinarySearch(tc.firstInput, tc.secondInput))
 	}
 }
