@@ -45,6 +45,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/shortestcompletingword/shortestcompletingword.go)
  - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/firstuniquecharacterinastring/firstuniquecharacterinastring.go)
  - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/kthmissingpositivenumber/kthmissingpositivenumber.go)
+ - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/verifyinganaliendictionary/verifyinganaliendictionary.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
