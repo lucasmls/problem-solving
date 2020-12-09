@@ -27,7 +27,7 @@ func TestIntersectionOfTwoArrays(t *testing.T) {
 	}
 
 	for _, tc := range tt {
-		assert.Equal(t, tc.output, intersectionOfTwoArrays(tc.firstInput, tc.secondInput))
-		assert.Equal(t, tc.output, intersectionOfTwoArraysTwoPointers(tc.firstInput, tc.secondInput))
+		assert.ElementsMatch(t, tc.output, intersectionOfTwoArrays(tc.firstInput, tc.secondInput))
+		assert.ElementsMatch(t, tc.output, intersectionOfTwoArraysTwoPointers(tc.firstInput, tc.secondInput))
 	}
 }
