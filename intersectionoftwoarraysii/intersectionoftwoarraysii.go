@@ -5,6 +5,15 @@ import (
 	"sort"
 )
 
+/**
+ * Given two arrays, write a function to compute their intersection.
+ *
+ * Input: nums1 = [1,2,2,1], nums2 = [2,2]
+ * Output: [2,2]
+ *
+ * @link https://leetcode.com/problems/intersection-of-two-arrays-ii/
+ */
+
 func intersectionOfTwoArrays(nums1 []int, nums2 []int) []int {
 	firstMap := map[int]int{}
 	for _, num := range nums1 {
