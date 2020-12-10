@@ -51,6 +51,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/minimumindexsumoftwolists/minimumindexsumoftwolists.go)
  - [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/longestwordindictionary/longestwordindictionary.go)
  - [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/longestharmonioussubsequence/longestharmonioussubsequence.go)
+ - [Two Sum](https://leetcode.com/problems/two-sum/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/twosum/twosum.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
