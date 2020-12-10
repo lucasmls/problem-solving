@@ -49,6 +49,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/longestpalindrome/longestpalindrome.go)
  - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/intersectionoftwoarraysii/intersectionoftwoarraysii.go)
  - [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/minimumindexsumoftwolists/minimumindexsumoftwolists.go)
+ - [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/longestwordindictionary/longestwordindictionary.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
