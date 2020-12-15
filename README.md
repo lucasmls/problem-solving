@@ -53,6 +53,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/longestharmonioussubsequence/longestharmonioussubsequence.go)
  - [Two Sum](https://leetcode.com/problems/two-sum/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/twosum/twosum.go)
  - [Set Mismatch](https://leetcode.com/problems/set-mismatch/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/setmismatch/setmismatch.go)
+ - [Powerful Integers](https://leetcode.com/problems/powerful-integers/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/powerfulintegers/powerfulintegers.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
