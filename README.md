@@ -55,6 +55,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Set Mismatch](https://leetcode.com/problems/set-mismatch/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/setmismatch/setmismatch.go)
  - [Powerful Integers](https://leetcode.com/problems/powerful-integers/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/powerfulintegers/powerfulintegers.go)
  - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/isomorphicstrings/isomorphicstrings.go)
+ - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/containsduplicateii/containsduplicateii.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
