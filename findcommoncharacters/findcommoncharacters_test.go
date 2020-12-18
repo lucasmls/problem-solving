@@ -44,6 +44,6 @@ func TestCommonChars(t *testing.T) {
 	}
 
 	for _, tc := range tt {
-		assert.Equal(t, tc.output, CommonChars(tc.input))
+		assert.ElementsMatch(t, tc.output, CommonChars(tc.input))
 	}
 }
