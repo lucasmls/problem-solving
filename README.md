@@ -57,6 +57,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/isomorphicstrings/isomorphicstrings.go)
  - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/containsduplicateii/containsduplicateii.go)
  - [Word Pattern](https://leetcode.com/problems/word-pattern/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/wordpattern/wordpattern.go)
+ - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/validparentheses/validparentheses.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
