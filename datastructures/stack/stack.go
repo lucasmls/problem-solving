@@ -44,3 +44,8 @@ func (s *Stack) ToString() string {
 
 	return str
 }
+
+// IsEmpty ...
+func (s *Stack) IsEmpty() bool {
+	return len(s.items) == 0
+}
