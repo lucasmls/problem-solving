@@ -1,6 +1,8 @@
 package validparentheses
 
-import "errors"
+import (
+	"github.com/lucasmls/problem-solving/datastructures/stack"
+)
 
 /**
  * Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
@@ -23,37 +25,6 @@ import "errors"
  *
  * @link https://leetcode.com/problems/valid-parentheses/
  */
-
-// Stack ...
-type Stack struct {
-	items []string
-}
-
-// Push a new item in to the Stack
-func (s *Stack) Push(value string) {
-	s.items = append(s.items, value)
-}
-
-// Pop out the last inserted item from the Stack
-func (s *Stack) Pop() (string, error) {
-	if len(s.items) > 0 {
-		lastItem := s.items[len(s.items)-1]
-		s.items = s.items[:len(s.items)-1]
-
-		return lastItem, nil
-	}
-
-	return "", errors.New("The stack is empty")
-}
-
-// Peek the last inserted item from the Stack
-func (s *Stack) Peek() (string, error) {
-	if len(s.items) > 0 {
-		return s.items[len(s.items)-1], nil
-	}
-
-	return "", errors.New("The stack is empty")
-}
 
 func isOpeningBracket(bracket string) bool {
 	if bracket == "(" || bracket == "{" || bracket == "[" {
@@ -80,7 +51,7 @@ func bracketsMatchesOpeningAndClosing(opening string, closing string) bool {
 }
 
 func isValidParentheses(s string) bool {
-	stack := Stack{}
+	stack := stack.Stack{}
 
 	for i := 0; i < len(s); i++ {
 		bracket := string(s[i])
@@ -102,7 +73,7 @@ func isValidParentheses(s string) bool {
 		stack.Pop()
 	}
 
-	if len(stack.items) > 0 {
+	if !stack.IsEmpty() {
 		return false
 	}
 
