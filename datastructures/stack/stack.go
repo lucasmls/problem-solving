@@ -49,3 +49,8 @@ func (s *Stack) ToString() string {
 func (s *Stack) IsEmpty() bool {
 	return len(s.items) == 0
 }
+
+// Size ...
+func (s *Stack) Size() int {
+	return len(s.items)
+}
