@@ -62,6 +62,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/removealladjacentduplicatesinstring/removealladjacentduplicatesinstring.go)
  - [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/crawlerlogfolder/crawlerlogfolder.go)
  - [Baseball Game](https://leetcode.com/problems/baseball-game/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/baseballgame/baseballgame.go)
+ - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/minimumaddtomakeparenthesesvalid/minimumaddtomakeparenthesesvalid.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
