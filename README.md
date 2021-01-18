@@ -65,6 +65,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/minimumaddtomakeparenthesesvalid/minimumaddtomakeparenthesesvalid.go)
  - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/dailytemperatures/dailytemperatures.go)
  - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/goalparserinterpretation/goalparserinterpretation.go)
+ - [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/countthenumberofconsistentstrings/countthenumberofconsistentstrings.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
