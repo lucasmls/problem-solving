@@ -68,6 +68,12 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/countthenumberofconsistentstrings/countthenumberofconsistentstrings.go)
  - [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/checkiftwostringarraysareequivalent/checkiftwostringarraysareequivalent.go)
  - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/findthehighestaltitude/findthehighestaltitude.go)
+ - [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/defanginganipaddress/defanginganipaddress.go)
+ - [Shuffle String](https://leetcode.com/problems/shuffle-string/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/shufflestring/shufflestring.go)
+ - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/runningsumof1darray/runningsumof1darray.go)
+ - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/richestcustomerwealth/richestcustomerwealth.go)
+ - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/numberofstepstoreduceanumbertozero/numberofstepstoreduceanumbertozero.go)
+ - [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/subtracttheproductandsumofdigitsofaninteger/subtracttheproductandsumofdigitsofaninteger.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
