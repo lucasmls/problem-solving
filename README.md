@@ -74,6 +74,7 @@ It's a place where i store all of the problems that i already have solved. The p
  - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/richestcustomerwealth/richestcustomerwealth.go)
  - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/numberofstepstoreduceanumbertozero/numberofstepstoreduceanumbertozero.go)
  - [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/subtracttheproductandsumofdigitsofaninteger/subtracttheproductandsumofdigitsofaninteger.go)
+ - [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/countofmatchesintournament/countofmatchesintournament.go)
 
 #### HackerHank Problems
  - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution](https://github.com/lucasmls/problem-solving/blob/master/birthdaycakecandles/birthdaycakecandles.go)
